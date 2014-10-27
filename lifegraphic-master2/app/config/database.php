@@ -57,7 +57,7 @@ return array(
 	        'host'      => 'localhost',
 	        'database'  => 'lifeogra_DB',
 	        'username'  => 'lifeogra',
-	        'password'  => '7S09jmvZ6y',
+	        'password'  => 'QZ9-QHP-wSZ-88F',
 	        'charset'   => 'utf8',
 	        'collation' => 'utf8_unicode_ci',
 	        'prefix'    => '',
