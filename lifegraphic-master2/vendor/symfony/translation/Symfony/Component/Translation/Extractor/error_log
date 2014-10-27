@@ -1,0 +1,1 @@
+[15-Oct-2014 00:00:31 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\Translation\Extractor\ExtractorInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/translation/Symfony/Component/Translation/Extractor/ChainExtractor.php on line 22

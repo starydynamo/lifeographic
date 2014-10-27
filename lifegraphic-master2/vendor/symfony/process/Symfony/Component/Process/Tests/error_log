@@ -1,0 +1,1 @@
+[20-Oct-2014 01:00:42 Europe/London] PHP Fatal error:  Class 'Symfony\Component\Process\Tests\AbstractProcessTest' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/process/Symfony/Component/Process/Tests/SigchildEnabledProcessTest.php on line 15

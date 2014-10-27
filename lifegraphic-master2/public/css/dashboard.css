@@ -1,0 +1,425 @@
+.containerDash {
+  clear: both;
+  height: 1200px;
+  width: 1138px;
+ /* border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;*/
+  margin: 2px auto;
+    /*overflow: auto;*/
+  ;
+  /* [disabled]background-image: url(lifeographic.jpg); */
+}
+.HeaderDash {
+  float: left;
+  height: auto;
+  width: 1024px;
+}
+.LeftpanelDash {
+  background-color: #444;
+  float: left;
+  height: 1280px;
+  width: 150px;
+  margin-top: 5px;
+}
+.progressbarDash {
+  float: left;
+  height: 60px;
+  width: 782px;
+  margin-left: 50px;
+  /*margin-bottom: 20px;*/
+  /*background-color: #3CF;*/
+  background-image: url('../img/htmlsteps.png');
+  background-repeat: no-repeat;
+}
+.TopsectionDash {
+  float: left;
+  height: auto;
+  width: 782px;
+  margin-left: 15px;
+}
+
+.graphdivDash {
+  float: left;
+  height: 200px;
+  width: 782px;
+  margin-left: 15px;
+  background-color: #3F6;
+}
+
+.catbarDash {
+  float: left;
+  height: auto;
+  width: 720px;
+  margin-left: 50px;
+  margin-top: 30px;
+  opacity: 0.6;
+  /*background-color: #3FF;*/
+}
+
+.catbarDash.Love {
+  margin-top: 60px;
+  background-color: #FF9999;
+}
+
+.catbarDash.Health {
+  background-color: #00CC33;
+}
+
+.catbarDash.Assets {
+  background-color: #3399CC;
+}
+
+.catbarDash.Mood {
+  background-color: #FFCC00;
+}
+
+.healthbar_divDash,
+.lovebar_divDash,
+.assetsbar_divDash,
+.moodbar_divDash  {
+  /*background-color: #DDD;*/
+  height: 40px;
+  width: 250px;
+  margin-left: 27px;
+  /*font-weight: bold;*/
+  font-size: 25px;
+  font-family: Verdana;
+}
+
+.healthbar_divDash {
+  color: #00CC33;
+}
+
+.lovebar_divDash {
+  color: #FF9999;
+}
+
+.assetsbar_divDash {
+  color: #3399CC;
+}
+
+.moodbar_divDash {
+  color: #FFCC00;
+}
+
+.datestamp_divDash {
+  float: right;
+  height: 20px;
+  width: 125px;
+  margin-right: 15px;
+}
+.Time_divDash {
+  float: right;
+  height: 15px;
+  width: 100px;
+  margin-right: 27px;
+}
+.subtitle_divDash {
+  /*background-color: #DDD;*/
+  float: left;
+  height: 45px;
+  width: 275px;
+  margin-left: 27px;
+  margin-top: 5px;
+}
+.rank_divDash {
+  /*background-color: #DDD;*/
+  float: left;
+  height: 55px;
+  width: 400px;
+  margin-left: 27px;
+}
+.historygraphDash {
+  /*background-color: #DDD;*/
+  float: left;
+  height: 25px;
+  width: 250px;
+  font-weight: bold;
+}
+
+.historygraphDashLove {
+  color: #FF9999;
+}
+
+.historygraphDashHealth {
+  color: #00CC33;
+}
+
+.historygraphDashAssets {
+  color: #3399CC;
+}
+
+.historygraphDashMood {
+  color: #FFCC00;
+}
+
+.historygraphbox_divDash {
+  /*background-color: #3CF;*/
+  float: right;
+  height: 162px;
+  width: 280px;
+  margin-right: 25px;
+  margin-top: 50px;
+}
+.Reason_divDash {
+  /*float: left;*/
+  height: 100px;
+  width: 400px;
+  margin-left: 30px;
+  overflow: auto;
+}
+.rankingbox1_divDash {
+  float: left;
+  height: 123px;
+  width: 123px;
+  margin-left: 45px;
+  /*background-color: #0C9;*/
+}
+.rankingbox2_divDash {
+  /*background-color: #3FF;*/
+  float: left;
+  height: 123px;
+  width: 123px;
+  margin-left: 10px;
+}
+.LifeDial_divDash {
+  float: left;
+  height: 123px;
+  width: 198px;
+  margin-left: 8px;
+}
+.rankingbox3_divDash {
+  /*background-color: #CC9;*/
+  float: left;
+  height: 123px;
+  width: 123px;
+  margin-left: 10px;
+}
+.rankingbox4_divDash {
+  /*background-color: #6F9;*/
+  float: left;
+  height: 123px;
+  width: 123px;
+  margin-left: 10px;
+}
+.totalgraph_divDash {
+  float: left;
+  height: 170px;
+  width: 725px;
+  margin-left: 27px;
+  /*background-color: #0C6;*/
+}
+.leftpanel_rowsDash {
+  float: left;
+  height: 25px;
+  width: 145px;
+  margin-left: 5px;
+  margin-top: 10px;
+  color: #FFFFFF;
+}
+
+p.categoryLove, p.categoryHealth, p.categoryAssets, p.categoryMood {
+  font-size: 150%;
+  margin-bottom: 0;
+  cursor: pointer;
+  /*font-weight: bold;*/
+  font-family: Times;
+  width: 50px;
+}
+
+p.paragraphBarLove, p.paragraphBarHealth, p.paragraphBarAssets, p.paragraphBarMood {
+  font-size: 150%;
+  margin-bottom: 0;
+  cursor: pointer;
+  font-family: Times;
+  background-color: white;
+}
+
+p.categoryLove {
+  margin-left: 17px;
+  color: #FF9999;
+}
+p.categoryHealth {
+  margin-left: 12px;
+  color: #00CC33;
+}
+
+p.categoryAssets {
+  margin-left: 11px;
+  color: #3399CC;
+}
+
+p.categoryMood {
+  margin-left: 12px;
+  color: #FFCC00;
+}
+
+p.paragraphBarLove {
+  color: #FF9999;
+}
+p.paragraphBarHealth {
+  color: #00CC33;
+}
+
+p.paragraphBarAssets {
+  color: #3399CC;
+}
+
+p.paragraphBarMood {
+  color: #FFCC00;
+}
+
+a:link, a:hover {
+  text-decoration: none !important;
+}
+
+label.checkbox {
+  font-size: 10px;
+}
+
+div.reasonCheckboxes {
+  margin-left: 10px;
+}
+
+p.reasonLabel {
+  margin-left: 35px;
+  /*margin-top: 5px;*/
+}
+
+.rateButtons {
+  margin: 10px 0px 30px 0px;
+  width: 348px;
+  height: 6px;
+}
+
+button.rateLove {
+  opacity: 0.6 !important;
+}
+
+button.rateMood {
+  opacity: 0.7 !important;
+}
+
+button.rateHealth {
+  opacity: 0.85 !important;
+}
+
+button.rateHealth, button.rateLove, button.rateMood, button.rateAssets {
+  width: 62px;
+}
+
+div.subtitle_divDash p {
+  width: 500px;
+}
+
+div.subtitle_divDash button span{
+  font-size: 11px;
+}
+
+/*button.submitButton {
+  border-radius: 35px;
+  height: 70px;
+  margin-left: 82px;
+  margin-top: -35px;
+  width: 70px;
+  background-image: url('../img/submityellow.jpg');
+  border: none;
+  opacity: 0.7;
+}
+
+button.submitButton:hover {
+  opacity: 1;
+}*/
+
+div.navbar-top {
+  height: 50px;
+  margin-bottom: -20px;
+}
+
+ol.progtrckr {
+  margin: 0;
+  padding: 0;
+  list-style-type none;
+  width: 88%;
+  text-align: center;
+  margin: -9px 0 45px -60px;
+  display: none;
+}
+
+ol.progtrckr li {
+  display: inline-block;
+  text-align: center;
+  line-height: 3em;
+}
+
+ol.progtrckr[data-progtrckr-steps="7"] li { width: 10%; }
+ol.progtrckr[data-progtrckr-steps="8"] li { width: 9%; }
+ol.progtrckr[data-progtrckr-steps="9"] li { width: 8%; }
+
+ol.progtrckr li.progtrckr-done {
+    color: black;
+    border-bottom: 4px solid yellowgreen;
+}
+ol.progtrckr li.progtrckr-todo {
+    color: silver; 
+    border-bottom: 4px solid silver;
+}
+
+ol.progtrckr li:after {
+    content: "\00a0\00a0";
+}
+ol.progtrckr li:before {
+    position: relative;
+    bottom: -2.5em;
+    float: left;
+    left: 47%;
+    line-height: 1em;
+}
+ol.progtrckr li.progtrckr-done:before {
+    content: "\2713";
+    color: white;
+    background-color: yellowgreen;
+    height: 1.2em;
+    width: 1.2em;
+    line-height: 1.2em;
+    border: none;
+    border-radius: 1.2em;
+}
+ol.progtrckr li.progtrckr-todo:before {
+    content: "\039F";
+    color: silver;
+    background-color: white;
+    font-size: 1.5em;
+    bottom: -1.6em;
+    /*width: 1.2em;*/
+}
+
+@-moz-document url-prefix() {
+  fieldset { display: table-cell; }
+}
+
+table.submissions {
+  width: 713px; 
+  margin-top: 50px;
+  margin-left: 15px;
+  /*border: 1px solid grey;*/
+}
+
+table.submissions tr th, table.submissions tr td {
+  padding: 7px;
+}
+
+h2.submissions {
+  margin-left: 15px;
+}
+
+input#datepicker {
+  cursor: pointer;
+}
+

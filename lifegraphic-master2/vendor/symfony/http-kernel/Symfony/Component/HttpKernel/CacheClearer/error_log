@@ -1,0 +1,1 @@
+[10-Aug-2014 06:03:03 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheClearer/ChainCacheClearer.php on line 20

@@ -1,0 +1,1 @@
+[05-Jul-2014 17:18:24 Europe/London] PHP Fatal error:  Class 'Patchwork\PHP\Shim\Normalizer' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/patchwork/utf8/class/Normalizer.php on line 16

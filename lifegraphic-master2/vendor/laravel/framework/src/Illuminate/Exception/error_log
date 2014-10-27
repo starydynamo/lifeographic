@@ -1,0 +1,1 @@
+[08-Jul-2014 10:07:03 Europe/London] PHP Fatal error:  Interface 'Illuminate\Exception\ExceptionDisplayerInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Exception/WhoopsDisplayer.php on line 8

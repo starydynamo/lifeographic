@@ -1,0 +1,1 @@
+[15-Oct-2014 07:09:54 Europe/London] PHP Fatal error:  Class 'Composer\Util\Filesystem' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/robloach/component-installer/src/ComponentInstaller/Util/Filesystem.php on line 20

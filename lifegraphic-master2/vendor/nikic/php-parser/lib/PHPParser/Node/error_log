@@ -1,0 +1,2 @@
+[31-Aug-2014 02:07:29 Europe/London] PHP Fatal error:  Class 'PHPParser_NodeAbstract' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nikic/php-parser/lib/PHPParser/Node/Const.php on line 8
+[31-Aug-2014 02:16:06 Europe/London] PHP Fatal error:  Class 'PHPParser_NodeAbstract' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nikic/php-parser/lib/PHPParser/Node/Stmt.php on line 4

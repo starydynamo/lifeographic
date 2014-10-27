@@ -1,0 +1,4 @@
+[16-Jul-2014 03:06:08 Europe/London] PHP Fatal error:  Class 'Seeder' not found in /home/lifeogra/public_html/lifegraphic-master2/app/database/seeds/DatabaseSeeder.php on line 3
+[16-Jul-2014 16:24:05 Europe/London] PHP Fatal error:  Class 'Seeder' not found in /home/lifeogra/public_html/lifegraphic-master2/app/database/seeds/DatabaseSeeder.php on line 3
+[17-Sep-2014 01:55:49 Europe/London] PHP Fatal error:  Class 'Seeder' not found in /home/lifeogra/public_html/lifegraphic-master2/app/database/seeds/DatabaseSeeder.php on line 3
+[18-Sep-2014 01:56:23 Europe/London] PHP Fatal error:  Class 'Seeder' not found in /home/lifeogra/public_html/lifegraphic-master2/app/database/seeds/DatabaseSeeder.php on line 3

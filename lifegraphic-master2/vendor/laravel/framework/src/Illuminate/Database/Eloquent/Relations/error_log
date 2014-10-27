@@ -1,0 +1,2 @@
+[19-Oct-2014 01:11:42 Europe/London] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Relations\MorphOneOrMany' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphMany.php on line 5
+[23-Oct-2014 23:03:26 Europe/London] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Relations\Pivot' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/MorphPivot.php on line 5

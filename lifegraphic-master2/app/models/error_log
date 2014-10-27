@@ -1,0 +1,9 @@
+[29-Jun-2014 20:27:03 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/CategoryValue.php on line 6
+[01-Jul-2014 22:45:33 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/User.php on line 6
+[25-Jul-2014 07:23:40 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/User.php on line 6
+[30-Jul-2014 12:55:49 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/User.php on line 6
+[09-Aug-2014 20:26:40 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/User.php on line 6
+[27-Aug-2014 01:25:28 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/Category.php on line 3
+[01-Sep-2014 18:43:05 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/Reason.php on line 3
+[01-Sep-2014 18:43:22 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/Category.php on line 3
+[03-Oct-2014 07:59:43 Europe/London] PHP Fatal error:  Class 'Eloquent' not found in /home/lifeogra/public_html/lifegraphic-master2/app/models/CategoryValue.php on line 6

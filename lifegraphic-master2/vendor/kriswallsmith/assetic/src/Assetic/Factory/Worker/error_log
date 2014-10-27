@@ -1,0 +1,2 @@
+[04-Aug-2014 10:42:52 Europe/London] PHP Fatal error:  Interface 'Assetic\Factory\Worker\WorkerInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/CacheBustingWorker.php on line 24
+[01-Oct-2014 21:26:33 Europe/London] PHP Fatal error:  Interface 'Assetic\Factory\Worker\WorkerInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/kriswallsmith/assetic/src/Assetic/Factory/Worker/EnsureFilterWorker.php on line 24

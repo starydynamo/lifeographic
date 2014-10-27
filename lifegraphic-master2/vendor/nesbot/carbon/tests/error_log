@@ -1,0 +1,15 @@
+[26-Jul-2014 17:13:50 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/NowAndOtherStaticHelpersTest.php on line 15
+[27-Jul-2014 00:12:49 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/SubTest.php on line 15
+[27-Jul-2014 01:03:16 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/ComparisonTest.php on line 15
+[28-Jul-2014 09:13:14 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/FluidSettersTest.php on line 15
+[28-Jul-2014 11:13:14 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/InstanceTest.php on line 15
+[28-Jul-2014 13:28:13 Europe/London] PHP Fatal error:  Class 'Carbon\Carbon' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/StringsTest.php on line 14
+[29-Jul-2014 11:42:49 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/CreateFromTimeTest.php on line 15
+[29-Jul-2014 23:04:23 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/InstanceTest.php on line 15
+[30-Jul-2014 07:37:39 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/ConstructTest.php on line 15
+[31-Jul-2014 20:33:35 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/StartEndOfTest.php on line 15
+[03-Aug-2014 21:54:17 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/IsTest.php on line 15
+[05-Aug-2014 03:51:33 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/CopyTest.php on line 15
+[07-Aug-2014 12:35:42 Europe/London] PHP Fatal error:  Class 'TestFixture' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/DayOfWeekModifiersTest.php on line 15
+[14-Aug-2014 08:50:40 Europe/London] PHP Warning:  require(/home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/../vendor/autoload.php): failed to open stream: No such file or directory in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/TestFixture.php on line 12
+[14-Aug-2014 08:50:40 Europe/London] PHP Fatal error:  require(): Failed opening required '/home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lifeogra/public_html/lifegraphic-master2/vendor/nesbot/carbon/tests/TestFixture.php on line 12

@@ -1,0 +1,1 @@
+[01-Oct-2014 18:04:49 Europe/London] PHP Fatal error:  Class 'Symfony\Component\Config\FileLocator' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Config/FileLocator.php on line 23

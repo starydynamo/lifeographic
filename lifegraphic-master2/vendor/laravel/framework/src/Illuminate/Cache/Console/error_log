@@ -1,0 +1,1 @@
+[03-Aug-2014 12:25:23 Europe/London] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 7

@@ -1,0 +1,2 @@
+[20-Jul-2014 05:58:11 Europe/London] PHP Fatal error:  Interface 'Illuminate\Support\Contracts\ArrayableInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 24
+[17-Aug-2014 10:56:01 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\Collection' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php on line 5

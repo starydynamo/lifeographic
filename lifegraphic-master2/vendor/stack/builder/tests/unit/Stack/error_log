@@ -1,0 +1,1 @@
+[08-Jul-2014 18:03:20 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/stack/builder/tests/unit/Stack/StackedHttpKernelTest.php on line 11

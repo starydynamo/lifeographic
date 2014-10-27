@@ -1,0 +1,3 @@
+[08-Jul-2014 13:29:50 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Translation/TranslationServiceProvider.php on line 5
+[10-Jul-2014 02:30:08 Europe/London] PHP Fatal error:  Interface 'Illuminate\Translation\LoaderInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 5
+[10-Jul-2014 23:57:10 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\NamespacedItemResolver' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Translation/Translator.php on line 8

@@ -1,0 +1,4 @@
+[17-Jul-2014 08:28:39 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/ircmaxell/password-compat/test/Unit/PasswordNeedsRehashTest.php on line 3
+[18-Jul-2014 00:58:06 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/ircmaxell/password-compat/test/Unit/PasswordGetInfoTest.php on line 3
+[31-Aug-2014 01:00:28 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/ircmaxell/password-compat/test/Unit/PasswordVerifyTest.php on line 3
+[01-Oct-2014 02:50:53 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/ircmaxell/password-compat/test/Unit/PasswordHashTest.php on line 3

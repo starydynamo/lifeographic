@@ -1,0 +1,1 @@
+[01-Sep-2014 18:27:13 Europe/London] PHP Fatal error:  Class 'Composer\Installer\LibraryInstaller' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/robloach/component-installer/src/ComponentInstaller/Installer.php on line 25

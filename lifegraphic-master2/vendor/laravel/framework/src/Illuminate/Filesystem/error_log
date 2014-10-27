@@ -1,0 +1,1 @@
+[07-Jul-2014 06:34:51 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 5

@@ -1,0 +1,2 @@
+[15-Oct-2014 02:50:35 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/Cluster/PredisClusterHashStrategyTest.php on line 22
+[15-Oct-2014 02:50:36 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/Cluster/RedisClusterHashStrategyTest.php on line 21

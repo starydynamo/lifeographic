@@ -1,0 +1,2 @@
+[02-Sep-2014 03:34:03 Europe/London] PHP Fatal error:  Class 'Illuminate\Pagination\BootstrapPresenter' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Pagination/views/slider.php on line 2
+[02-Sep-2014 03:35:28 Europe/London] PHP Fatal error:  Class 'Illuminate\Pagination\BootstrapPresenter' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Pagination/views/slider-3.php on line 2

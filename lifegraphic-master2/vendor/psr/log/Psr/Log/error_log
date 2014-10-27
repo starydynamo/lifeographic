@@ -1,0 +1,2 @@
+[12-Jul-2014 22:04:52 Europe/London] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/psr/log/Psr/Log/NullLogger.php on line 14
+[12-Jul-2014 22:57:10 Europe/London] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/psr/log/Psr/Log/AbstractLogger.php on line 13

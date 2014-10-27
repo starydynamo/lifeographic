@@ -1,0 +1,1 @@
+[15-Oct-2014 02:10:27 Europe/London] PHP Fatal error:  Class 'Swift_Mime_Headers_UnstructuredHeader' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/ParameterizedHeader.php on line 18

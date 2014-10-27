@@ -1,0 +1,1 @@
+[17-Oct-2014 00:11:06 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\NamespacedItemResolver' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 7

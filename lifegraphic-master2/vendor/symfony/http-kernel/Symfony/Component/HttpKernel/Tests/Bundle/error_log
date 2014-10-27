@@ -1,0 +1,1 @@
+[02-Sep-2014 03:34:45 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Bundle/BundleTest.php on line 23

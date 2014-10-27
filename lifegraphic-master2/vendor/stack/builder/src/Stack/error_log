@@ -1,0 +1,1 @@
+[21-Aug-2014 02:17:35 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/stack/builder/src/Stack/StackedHttpKernel.php on line 10

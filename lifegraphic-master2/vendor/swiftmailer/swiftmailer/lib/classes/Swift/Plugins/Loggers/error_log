@@ -1,0 +1,2 @@
+[08-Jul-2014 18:02:14 Europe/London] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 19
+[03-Oct-2014 14:50:10 Europe/London] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 19

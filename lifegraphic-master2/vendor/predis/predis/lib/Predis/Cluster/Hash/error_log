@@ -1,0 +1,1 @@
+[02-Sep-2014 03:03:15 Europe/London] PHP Fatal error:  Interface 'Predis\Cluster\Hash\HashGeneratorInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Cluster/Hash/CRC16HashGenerator.php on line 20

@@ -1,0 +1,3 @@
+[10-Jul-2014 20:20:19 Europe/London] PHP Fatal error:  Interface 'Predis\Protocol\ProtocolInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Protocol/ComposableProtocolInterface.php on line 22
+[19-Aug-2014 14:16:59 Europe/London] PHP Fatal error:  Interface 'Predis\Protocol\ResponseReaderInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Protocol/ProtocolInterface.php on line 24
+[01-Oct-2014 20:50:00 Europe/London] PHP Fatal error:  Class 'Predis\CommunicationException' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Protocol/ProtocolException.php on line 23

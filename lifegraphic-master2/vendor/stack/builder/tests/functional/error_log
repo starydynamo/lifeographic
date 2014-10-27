@@ -1,0 +1,2 @@
+[12-Jul-2014 13:58:32 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/stack/builder/tests/functional/SilexApplicationTest.php on line 11
+[21-Sep-2014 00:43:23 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/stack/builder/tests/functional/SilexApplicationTest.php on line 11

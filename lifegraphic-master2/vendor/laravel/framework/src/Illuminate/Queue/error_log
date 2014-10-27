@@ -1,0 +1,7 @@
+[08-Jul-2014 10:49:55 Europe/London] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Queue/SqsQueue.php on line 6
+[08-Jul-2014 14:31:41 Europe/London] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Queue/IronQueue.php on line 9
+[08-Jul-2014 20:09:30 Europe/London] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Queue/BeanstalkdQueue.php on line 7
+[30-Jul-2014 23:56:12 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Queue/FailConsoleServiceProvider.php on line 10
+[08-Aug-2014 15:00:45 Europe/London] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Queue/SyncQueue.php on line 3
+[02-Sep-2014 02:20:03 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Queue/QueueServiceProvider.php on line 14
+[01-Oct-2014 21:19:41 Europe/London] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Queue/RedisQueue.php on line 6

@@ -1,0 +1,1 @@
+[15-Oct-2014 06:05:10 Europe/London] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 19
