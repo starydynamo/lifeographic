@@ -1,2 +1,0 @@
-[14-Oct-2014 19:20:06 Europe/London] PHP Fatal error:  Class 'Assetic\Filter\Sass\SassFilter' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/ScssFilter.php on line 21
-[16-Oct-2014 08:24:46 Europe/London] PHP Fatal error:  Class 'Assetic\Filter\BaseProcessFilter' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/kriswallsmith/assetic/src/Assetic/Filter/Sass/SassFilter.php on line 27

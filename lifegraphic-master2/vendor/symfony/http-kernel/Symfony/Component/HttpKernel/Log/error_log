@@ -1,2 +1,0 @@
-[31-Aug-2014 01:42:16 Europe/London] PHP Fatal error:  Class 'Psr\Log\NullLogger' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/NullLogger.php on line 23
-[03-Oct-2014 16:10:46 Europe/London] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/LoggerInterface.php on line 25

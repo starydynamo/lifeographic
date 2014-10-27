@@ -1,2 +1,0 @@
-[14-Oct-2014 10:10:03 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php on line 6
-[16-Oct-2014 07:59:35 Europe/London] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\Client' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Client.php on line 7

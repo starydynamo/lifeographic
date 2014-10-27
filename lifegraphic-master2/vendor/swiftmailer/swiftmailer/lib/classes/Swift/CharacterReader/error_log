@@ -1,2 +1,0 @@
-[08-Jul-2014 09:37:00 Europe/London] PHP Fatal error:  Interface 'Swift_CharacterReader' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReader/UsAsciiReader.php on line 19
-[20-Oct-2014 16:03:54 Europe/London] PHP Fatal error:  Interface 'Swift_CharacterReader' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReader/Utf8Reader.php on line 20

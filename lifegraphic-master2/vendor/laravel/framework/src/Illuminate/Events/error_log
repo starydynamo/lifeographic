@@ -1,1 +1,0 @@
-[25-Jul-2014 05:01:43 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Events/EventServiceProvider.php on line 5

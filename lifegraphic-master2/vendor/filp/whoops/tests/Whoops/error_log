@@ -1,2 +1,0 @@
-[09-Jul-2014 17:24:41 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/filp/whoops/tests/Whoops/TestCase.php on line 11
-[12-Jul-2014 08:51:17 Europe/London] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/filp/whoops/tests/Whoops/RunTest.php on line 18

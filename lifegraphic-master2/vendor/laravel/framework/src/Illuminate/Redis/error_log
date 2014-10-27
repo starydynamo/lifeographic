@@ -1,1 +1,0 @@
-[08-Jul-2014 18:09:54 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 5

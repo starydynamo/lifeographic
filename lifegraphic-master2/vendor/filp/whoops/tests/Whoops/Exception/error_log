@@ -1,2 +1,0 @@
-[07-Jul-2014 04:17:21 Europe/London] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/filp/whoops/tests/Whoops/Exception/FrameCollectionTest.php on line 13
-[07-Jul-2014 23:05:19 Europe/London] PHP Fatal error:  Class 'Whoops\TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/filp/whoops/tests/Whoops/Exception/FrameTest.php on line 13

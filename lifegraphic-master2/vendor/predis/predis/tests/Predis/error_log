@@ -1,8 +1,0 @@
-[15-Oct-2014 02:15:12 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/ResponseQueuedTest.php on line 20
-[15-Oct-2014 02:50:15 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/HelpersTest.php on line 20
-[15-Oct-2014 04:55:26 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/ClientTest.php on line 24
-[15-Oct-2014 06:24:59 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/ServerExceptionTest.php on line 20
-[15-Oct-2014 14:29:07 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/CommunicationExceptionTest.php on line 21
-[15-Oct-2014 18:10:14 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/ClientExceptionTest.php on line 20
-[15-Oct-2014 21:39:08 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/ResponseErrorTest.php on line 20
-[15-Oct-2014 22:25:36 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/PredisExceptionTest.php on line 20

@@ -1,1 +1,0 @@
-[15-Oct-2014 20:48:35 Europe/London] PHP Fatal error:  Class 'PredisTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/tests/Predis/CommunicationExceptionTest.php on line 21

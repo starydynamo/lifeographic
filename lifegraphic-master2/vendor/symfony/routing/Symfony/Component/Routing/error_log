@@ -1,3 +1,0 @@
-[14-Oct-2014 21:45:16 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/routing/Symfony/Component/Routing/RouterInterface.php on line 24
-[15-Oct-2014 19:59:37 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\Routing\RouterInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/routing/Symfony/Component/Routing/Router.php on line 31
-[16-Oct-2014 02:35:15 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/routing/Symfony/Component/Routing/RouteCompiler.php on line 21

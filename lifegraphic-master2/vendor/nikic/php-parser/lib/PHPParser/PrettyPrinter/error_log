@@ -1,1 +1,0 @@
-[15-Aug-2014 15:41:31 Europe/London] PHP Fatal error:  Class 'PHPParser_PrettyPrinter_Default' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/nikic/php-parser/lib/PHPParser/PrettyPrinter/Zend.php on line 9

@@ -1,4 +1,0 @@
-[02-Sep-2014 02:58:21 Europe/London] PHP Fatal error:  Interface 'Illuminate\Remote\GatewayInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Remote/SecLibGateway.php on line 6
-[02-Sep-2014 03:01:51 Europe/London] PHP Fatal error:  Interface 'Illuminate\Remote\ConnectionInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Remote/MultiConnection.php on line 5
-[02-Sep-2014 03:02:41 Europe/London] PHP Fatal error:  Interface 'Illuminate\Remote\ConnectionInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Remote/Connection.php on line 8
-[02-Sep-2014 03:04:06 Europe/London] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/Remote/RemoteServiceProvider.php on line 5

@@ -1,3 +1,0 @@
-[14-Oct-2014 11:43:49 Europe/London] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 21
-[15-Oct-2014 22:29:48 Europe/London] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 19
-[16-Oct-2014 22:34:41 Europe/London] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 19

@@ -1,2 +1,0 @@
-[09-Jul-2014 00:49:31 Europe/London] PHP Fatal error:  Class 'Illuminate\View\Engines\PhpEngine' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 5
-[03-Oct-2014 15:34:35 Europe/London] PHP Fatal error:  Interface 'Illuminate\View\Engines\EngineInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 5

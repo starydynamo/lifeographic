@@ -1,2 +1,0 @@
-[01-Sep-2014 18:44:50 Europe/London] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\DataCollector\DataCollector' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/TimeDataCollector.php on line 23
-[01-Sep-2014 18:45:07 Europe/London] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\DataCollector\DataCollector' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/ExceptionDataCollector.php on line 24

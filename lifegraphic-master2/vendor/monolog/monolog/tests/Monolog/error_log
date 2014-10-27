@@ -1,4 +1,0 @@
-[26-Jun-2014 21:00:33 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/monolog/monolog/tests/Monolog/LoggerTest.php on line 18
-[01-Jul-2014 15:53:49 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php on line 17
-[06-Jul-2014 16:41:17 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/monolog/monolog/tests/Monolog/TestCase.php on line 15
-[03-Oct-2014 16:44:35 Europe/London] PHP Fatal error:  Class 'Psr\Log\Test\LoggerInterfaceTest' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php on line 20

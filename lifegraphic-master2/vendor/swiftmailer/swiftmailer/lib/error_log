@@ -1,1 +1,0 @@
-[05-Aug-2014 23:57:12 Europe/London] PHP Fatal error:  Class 'Swift_Preferences' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/preferences.php on line 9

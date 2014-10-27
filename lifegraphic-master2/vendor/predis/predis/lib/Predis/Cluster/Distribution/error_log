@@ -1,2 +1,0 @@
-[12-Jul-2014 19:18:09 Europe/London] PHP Fatal error:  Class 'Predis\Cluster\Distribution\HashRing' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Cluster/Distribution/KetamaPureRing.php on line 23
-[01-Oct-2014 18:45:21 Europe/London] PHP Fatal error:  Interface 'Predis\Cluster\Distribution\DistributionStrategyInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Cluster/Distribution/HashRing.php on line 24

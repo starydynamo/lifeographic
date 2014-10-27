@@ -1,2 +1,0 @@
-[15-Oct-2014 14:02:43 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/ExceptionListener.php on line 30
-[16-Oct-2014 17:26:04 Europe/London] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/ProfilerListener.php on line 30

@@ -1,2 +1,0 @@
-[21-Jun-2014 19:36:55 Europe/London] PHP Fatal error:  Class 'Swift_Transport_EsmtpTransport' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/tests/fixtures/EsmtpTransportFixture.php on line 4
-[04-Oct-2014 04:10:16 Europe/London] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/tests/fixtures/MimeEntityFixture.php on line 4

@@ -1,2 +1,0 @@
-[14-Jul-2014 11:56:28 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/debug/Symfony/Component/Debug/Tests/FatalErrorHandler/ClassNotFoundFatalErrorHandlerTest.php on line 18
-[20-Jul-2014 09:08:46 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/debug/Symfony/Component/Debug/Tests/FatalErrorHandler/UndefinedFunctionFatalErrorHandlerTest.php on line 18

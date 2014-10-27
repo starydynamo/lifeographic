@@ -1,1 +1,0 @@
-[16-Oct-2014 02:08:07 Europe/London] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/tests/unit/Swift/CharacterStream/ArrayCharacterStreamTest.php on line 4

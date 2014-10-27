@@ -1,3 +1,0 @@
-[04-Jul-2014 11:52:15 Europe/London] PHP Fatal error:  Class 'Predis\Iterator\MultiBulkResponse' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponseTuple.php on line 20
-[04-Jul-2014 15:07:37 Europe/London] PHP Fatal error:  Class 'Predis\Iterator\MultiBulkResponse' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponseSimple.php on line 22
-[05-Aug-2014 15:56:10 Europe/London] PHP Fatal error:  Interface 'Predis\ResponseObjectInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponse.php on line 23

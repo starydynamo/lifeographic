@@ -1,2 +1,0 @@
-[12-Jul-2014 12:23:38 Europe/London] PHP Fatal error:  Class 'Assetic\AssetManager' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php on line 27
-[12-Jul-2014 17:24:56 Europe/London] PHP Fatal error:  Class 'Assetic\AssetManager' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/kriswallsmith/assetic/src/Assetic/Factory/LazyAssetManager.php on line 27

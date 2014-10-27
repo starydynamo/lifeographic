@@ -1,1 +1,0 @@
-[02-Sep-2014 02:53:14 Europe/London] PHP Fatal error:  Class 'Swift_ByteStream_AbstractFilterableInputStream' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 18

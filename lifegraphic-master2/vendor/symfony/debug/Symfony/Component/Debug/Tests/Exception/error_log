@@ -1,1 +1,0 @@
-[04-Aug-2014 12:33:58 Europe/London] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/symfony/debug/Symfony/Component/Debug/Tests/Exception/FlattenExceptionTest.php on line 31

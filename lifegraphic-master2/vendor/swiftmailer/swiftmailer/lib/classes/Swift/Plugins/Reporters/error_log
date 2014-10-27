@@ -1,2 +1,0 @@
-[07-Jul-2014 06:37:06 Europe/London] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 19
-[31-Aug-2014 00:46:19 Europe/London] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 19

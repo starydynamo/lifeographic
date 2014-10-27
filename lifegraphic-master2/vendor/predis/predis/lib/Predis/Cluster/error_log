@@ -1,2 +1,0 @@
-[10-Jul-2014 02:37:14 Europe/London] PHP Fatal error:  Interface 'Predis\Cluster\CommandHashStrategyInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Cluster/PredisClusterHashStrategy.php on line 25
-[10-Jul-2014 13:55:10 Europe/London] PHP Fatal error:  Interface 'Predis\Cluster\CommandHashStrategyInterface' not found in /home/lifeogra/public_html/lifegraphic-master2/vendor/predis/predis/lib/Predis/Cluster/RedisClusterHashStrategy.php on line 25
