@@ -7,7 +7,9 @@ class Category extends Eloquent {
 	 *
 	 * @var string
 	 */
-	protected $table = 'categories';	
+	protected $table = 'categories';
+        
+        public $timestamps = false;
 
 	/**
 	 * Switch between categories

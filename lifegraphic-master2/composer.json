@@ -7,7 +7,9 @@
 		"laravel/framework": "4.1.*",
 		"twitter/bootstrap": "3.0.*@dev",
 		"components/jquery": "1.11.*@dev",
-		"eternicode/bootstrap-datepicker": "1.3.0"
+		"eternicode/bootstrap-datepicker": "1.3.0",
+                "fzaninotto/faker": "1.5.*@dev",
+		"way/generators": "2.*"
 	},
 	"autoload": {
 		"classmap": [

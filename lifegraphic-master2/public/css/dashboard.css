@@ -345,7 +345,7 @@ div.navbar-top {
 ol.progtrckr {
   margin: 0;
   padding: 0;
-  list-style-type none;
+  list-style-type: none;
   width: 88%;
   text-align: center;
   margin: -9px 0 45px -60px;
